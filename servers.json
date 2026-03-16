@@ -660,8 +660,8 @@
     {
       "name": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
       "type": "vmess",
-      "country": "United Kingdom",
-      "countryCode": "GB",
+      "country": "Canada",
+      "countryCode": "CA",
       "address": "cf.090227.xyz",
       "port": 443,
       "uuid": "290cc691-3ac6-4387-98a1-25c8eb8ca2ea"
