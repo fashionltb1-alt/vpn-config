@@ -1,7 +1,7 @@
 import base64
 import json
 import socket
-from urllib.parse import urlparse
+import requests
 
 INPUT_FILE = "nodes.txt"
 OUTPUT_FILE = "servers.json"
@@ -15,6 +15,14 @@ def check_server(host, port):
     except:
         return False
 
+def get_country(ip):
+    try:
+        r = requests.get(f"http://ip-api.com/json/{ip}", timeout=5)
+        data = r.json()
+        return data.get("country","Unknown"), data.get("countryCode","XX")
+    except:
+        return "Unknown","XX"
+
 with open(INPUT_FILE) as f:
     lines = f.readlines()
 
@@ -22,23 +30,33 @@ for line in lines:
     line = line.strip()
 
     if line.startswith("vmess://"):
-        encoded = line.replace("vmess://","")
-        decoded = base64.b64decode(encoded + "==").decode()
-        data = json.loads(decoded)
 
-        host = data.get("add")
-        port = int(data.get("port"))
+        try:
+            encoded = line.replace("vmess://","")
+            decoded = base64.b64decode(encoded + "==").decode()
+            data = json.loads(decoded)
 
-        if check_server(host, port):
-            servers.append({
-                "name": data.get("ps","VMESS"),
-                "type":"vmess",
-                "address":host,
-                "port":port,
-                "uuid":data.get("id")
-            })
+            host = data.get("add")
+            port = int(data.get("port"))
 
-result = {"servers":servers}
+            if check_server(host, port):
+
+                country, code = get_country(host)
+
+                servers.append({
+                    "name": data.get("ps","VMESS"),
+                    "type": "vmess",
+                    "country": country,
+                    "countryCode": code,
+                    "address": host,
+                    "port": port,
+                    "uuid": data.get("id")
+                })
+
+        except:
+            continue
+
+result = {"servers": servers}
 
 with open(OUTPUT_FILE,"w") as f:
     json.dump(result,f,indent=2)
