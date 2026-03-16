@@ -579,8 +579,8 @@
     {
       "name": "\ud83c\uddfa\ud83c\uddf8 VMESS-\u7f8e\u56fd>\u5fb7\u56fd-NF\u89e3\u9501\u5370\u5ea6\u5730\u533a\u975e\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-support.zoom.us:8080",
       "type": "vmess",
-      "country": "United States",
-      "countryCode": "US",
+      "country": "Australia",
+      "countryCode": "AU",
       "address": "support.zoom.us",
       "port": 8080,
       "uuid": "44e57485-eccc-46ef-808f-cd17ac810018"
