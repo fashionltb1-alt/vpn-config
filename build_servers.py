@@ -4,7 +4,7 @@ import socket
 import requests
 
 INPUT_FILE = "nodes.txt"
-OUTPUT_FILE = "servers.json"
+OUTPUT_FILE = "servers6.json"
 
 servers = []
 
