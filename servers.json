@@ -1,3 +1,27 @@
 {
-  "servers": []
+  "server": {
+    "username": "sshstores-alios123",
+    "uuid": "0df01b6a-53c5-40f0-97cf-f6f6f4f8d31d",
+        "id": "0df01b6a-53c5-40f0-97cf-f6f6f4f8d31d",
+    "hostname": "us1.vproxyy.online",
+    "ports": {
+      "http": 80,
+      "tls": 443
+    },
+    "protocols": [
+      "http_upgrade",
+      "websocket",
+      "xhttp"
+    ],
+    "features": {
+      "bandwidth": "unlimited",
+      "cdn": true,
+      "reverse_sni": true
+    },
+    "account": {
+      "created_date": "2026-03-17",
+      "expired_date": null,
+      "active_days": 7
+    }
+  }
 }
