@@ -71,7 +71,7 @@ for line in lines:
             "countryCode": code,
             "address": host,
             "port": port,
-            "uuid": data.get("id"),
+            "id": data.get("id"),
 
             # 🔥 NEW FIELDS
             "network": data.get("net", "tcp"),
