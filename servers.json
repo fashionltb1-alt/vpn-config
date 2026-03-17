@@ -408,8 +408,8 @@
     {
       "name": "@chillguy_vpn",
       "type": "vmess",
-      "country": "Unknown",
-      "countryCode": "XX",
+      "country": "Canada",
+      "countryCode": "CA",
       "address": "188.114.96.3",
       "port": 443,
       "uuid": "516d8a7a-3f0b-41d3-bad0-246116381516"
@@ -417,8 +417,8 @@
     {
       "name": "@chillguy_vpn",
       "type": "vmess",
-      "country": "Unknown",
-      "countryCode": "XX",
+      "country": "Canada",
+      "countryCode": "CA",
       "address": "51.79.102.253",
       "port": 80,
       "uuid": "58fe1542-5290-40ad-815a-77707a81afe5"
@@ -426,8 +426,8 @@
     {
       "name": "@chillguy_vpn",
       "type": "vmess",
-      "country": "Unknown",
-      "countryCode": "XX",
+      "country": "Turkey",
+      "countryCode": "TR",
       "address": "185.104.189.38",
       "port": 80,
       "uuid": "43dcdce1-3cea-4193-bc8d-90b92071d779"
@@ -435,8 +435,8 @@
     {
       "name": "@chillguy_vpn",
       "type": "vmess",
-      "country": "Unknown",
-      "countryCode": "XX",
+      "country": "Canada",
+      "countryCode": "CA",
       "address": "188.114.98.0",
       "port": 8080,
       "uuid": "nasnet"
@@ -444,8 +444,8 @@
     {
       "name": "\ud83c\udde6\ud83c\uddea WS-TLS | @Express_alaki | src @v2nodes",
       "type": "vmess",
-      "country": "Unknown",
-      "countryCode": "XX",
+      "country": "United States",
+      "countryCode": "US",
       "address": "dll.avaaaal.ir",
       "port": 8443,
       "uuid": "725f5fcd-721d-40a0-ba6b-3c7477633110"
@@ -453,8 +453,8 @@
     {
       "name": "\ud83c\udf10 WS-None | @Express_alaki | src @Vpn_Midas",
       "type": "vmess",
-      "country": "Unknown",
-      "countryCode": "XX",
+      "country": "Canada",
+      "countryCode": "CA",
       "address": "104.19.174.68",
       "port": 8080,
       "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767"
@@ -462,8 +462,8 @@
     {
       "name": "@chillguy_vpn",
       "type": "vmess",
-      "country": "Unknown",
-      "countryCode": "XX",
+      "country": "Canada",
+      "countryCode": "CA",
       "address": "104.21.16.211",
       "port": 80,
       "uuid": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d"
@@ -471,8 +471,8 @@
     {
       "name": "@v2_mod_shop\ud83d\ude80 \ud83c\udde8\ud83c\udde6",
       "type": "vmess",
-      "country": "Unknown",
-      "countryCode": "XX",
+      "country": "Canada",
+      "countryCode": "CA",
       "address": "tgju.org",
       "port": 8080,
       "uuid": "nasnet"
@@ -480,8 +480,8 @@
     {
       "name": "@v2_mod_shop\ud83d\ude80 \ud83c\udde8\ud83c\udde6",
       "type": "vmess",
-      "country": "Unknown",
-      "countryCode": "XX",
+      "country": "Canada",
+      "countryCode": "CA",
       "address": "172.67.73.163",
       "port": 8080,
       "uuid": "nasnet"
@@ -489,8 +489,8 @@
     {
       "name": "@chillguy_vpn",
       "type": "vmess",
-      "country": "Unknown",
-      "countryCode": "XX",
+      "country": "Canada",
+      "countryCode": "CA",
       "address": "172.64.149.182",
       "port": 8080,
       "uuid": "nasnet"
@@ -498,8 +498,8 @@
     {
       "name": "@chillguy_vpn",
       "type": "vmess",
-      "country": "Unknown",
-      "countryCode": "XX",
+      "country": "Canada",
+      "countryCode": "CA",
       "address": "turk1.net.net",
       "port": 80,
       "uuid": "43dcdce1-3cea-4193-bc8d-90b92071d779"
@@ -507,8 +507,8 @@
     {
       "name": "@chillguy_vpn",
       "type": "vmess",
-      "country": "Unknown",
-      "countryCode": "XX",
+      "country": "Canada",
+      "countryCode": "CA",
       "address": "104.21.7.101",
       "port": 80,
       "uuid": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d"
@@ -516,8 +516,8 @@
     {
       "name": "@chillguy_vpn",
       "type": "vmess",
-      "country": "Unknown",
-      "countryCode": "XX",
+      "country": "Canada",
+      "countryCode": "CA",
       "address": "104.21.69.44",
       "port": 8080,
       "uuid": "nasnet"
@@ -525,8 +525,8 @@
     {
       "name": "@chillguy_vpn",
       "type": "vmess",
-      "country": "Unknown",
-      "countryCode": "XX",
+      "country": "Hungary",
+      "countryCode": "HU",
       "address": "pq-hungary1.09vpn.com",
       "port": 80,
       "uuid": "703f722a-4bdf-4e9d-9afd-a681fdf87c74"
@@ -579,8 +579,8 @@
     {
       "name": "\ud83c\uddfa\ud83c\uddf8 VMESS-\u7f8e\u56fd>\u5fb7\u56fd-NF\u89e3\u9501\u5370\u5ea6\u5730\u533a\u975e\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-support.zoom.us:8080",
       "type": "vmess",
-      "country": "United States",
-      "countryCode": "US",
+      "country": "Australia",
+      "countryCode": "AU",
       "address": "support.zoom.us",
       "port": 8080,
       "uuid": "44e57485-eccc-46ef-808f-cd17ac810018"
@@ -660,8 +660,8 @@
     {
       "name": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
       "type": "vmess",
-      "country": "Canada",
-      "countryCode": "CA",
+      "country": "United Kingdom",
+      "countryCode": "GB",
       "address": "cf.090227.xyz",
       "port": 443,
       "uuid": "290cc691-3ac6-4387-98a1-25c8eb8ca2ea"
