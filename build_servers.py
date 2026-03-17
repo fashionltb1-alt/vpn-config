@@ -72,7 +72,7 @@ for line in lines:
             "address": host,
             "port": port,
             "id": data.get("id"),
-
+            "uuid": data.get("id"),
             # 🔥 NEW FIELDS
             "network": data.get("net", "tcp"),
             "path": data.get("path", ""),
