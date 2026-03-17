@@ -7,7 +7,13 @@
       "countryCode": "TR",
       "address": "tr1-smart.adelping.com",
       "port": 80,
-      "uuid": "43dcdce1-3cea-4193-bc8d-90b92071d779"
+      "uuid": "43dcdce1-3cea-4193-bc8d-90b92071d779",
+      "network": "ws",
+      "path": "",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "IR-@V2rayAlpha-43",
@@ -16,7 +22,13 @@
       "countryCode": "CA",
       "address": "104.21.69.44",
       "port": 8080,
-      "uuid": "nasnet"
+      "uuid": "nasnet",
+      "network": "ws",
+      "path": "/nasnet/cdn",
+      "host": "nasnet-511952424.mcitel.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@v2ray313 \u06a9\u0627\u0646\u0627\u0644\u0645\u0648\u0646 \ud83e\udef6\ud83c\udffb",
@@ -25,7 +37,13 @@
       "countryCode": "CA",
       "address": "turk1.net.net",
       "port": 80,
-      "uuid": "43dcdce1-3cea-4193-bc8d-90b92071d779"
+      "uuid": "43dcdce1-3cea-4193-bc8d-90b92071d779",
+      "network": "ws",
+      "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560",
+      "host": "tr1-smart.adelping.com.",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@v2ray313 \u06a9\u0627\u0646\u0627\u0644\u0645\u0648\u0646 \ud83e\udee9",
@@ -34,7 +52,13 @@
       "countryCode": "CA",
       "address": "188.114.98.0",
       "port": 8080,
-      "uuid": "nasnet"
+      "uuid": "nasnet",
+      "network": "ws",
+      "path": "/nasnet/cdn?ed=2560/?TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN",
+      "host": "nasnet-162191099.sharghdaily.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\u26a1Telegram = @prrofile_purple",
@@ -43,7 +67,13 @@
       "countryCode": "US",
       "address": "172.233.229.91",
       "port": 14102,
-      "uuid": "27ba87fc-583f-4763-9060-83cf0b9264db"
+      "uuid": "27ba87fc-583f-4763-9060-83cf0b9264db",
+      "network": "tcp",
+      "path": "",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\uddf9\ud83c\uddf7TM (@AZARBAYJAB1) vmess-ws",
@@ -52,7 +82,13 @@
       "countryCode": "CA",
       "address": "turk1.net.net",
       "port": 80,
-      "uuid": "43dcdce1-3cea-4193-bc8d-90b92071d779"
+      "uuid": "43dcdce1-3cea-4193-bc8d-90b92071d779",
+      "network": "ws",
+      "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560",
+      "host": "tr1-smart.adelping.com.",
+      "tls": "",
+      "sni": "TM_AZARBAYJAB1.new.99.workers.dev",
+      "alpn": "h3,h2,http/1.1"
     },
     {
       "name": "\ud83c\udf10 TCP-None | @express_alaki",
@@ -61,7 +97,13 @@
       "countryCode": "FR",
       "address": "94.232.247.165",
       "port": 45653,
-      "uuid": "9e91d19a-c73f-4276-adbc-b337c374259c"
+      "uuid": "9e91d19a-c73f-4276-adbc-b337c374259c",
+      "network": "tcp",
+      "path": "",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "Channel : @FreeConfigForYou\ud83c\udff4\ud83c\udff3",
@@ -70,7 +112,13 @@
       "countryCode": "US",
       "address": "165.140.216.141",
       "port": 443,
-      "uuid": "e7d72a8d-26f2-4b54-b366-0c43e0bcba7d"
+      "uuid": "e7d72a8d-26f2-4b54-b366-0c43e0bcba7d",
+      "network": "tcp",
+      "path": "",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -79,7 +127,13 @@
       "countryCode": "DE",
       "address": "162.19.248.238",
       "port": 550,
-      "uuid": "ede27a79-b039-490b-932c-495de4b68880"
+      "uuid": "ede27a79-b039-490b-932c-495de4b68880",
+      "network": "tcp",
+      "path": "",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": ">>@oneclickvpnkeys::AE::AE::AE::AE::AE::AE::AE::AE::AE::AE::AE::AE::AE::AE::AE::AE::AE::AE::AE::AE",
@@ -88,7 +142,13 @@
       "countryCode": "AE",
       "address": "89.31.120.192",
       "port": 443,
-      "uuid": "44537595-9ccc-4b83-8936-5f9ad3229019"
+      "uuid": "44537595-9ccc-4b83-8936-5f9ad3229019",
+      "network": "tcp",
+      "path": "",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -97,7 +157,13 @@
       "countryCode": "US",
       "address": "165.140.216.141",
       "port": 443,
-      "uuid": "e7d72a8d-26f2-4b54-b366-0c43e0bcba7d"
+      "uuid": "e7d72a8d-26f2-4b54-b366-0c43e0bcba7d",
+      "network": "tcp",
+      "path": "",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -106,7 +172,13 @@
       "countryCode": "CA",
       "address": "104.19.173.68",
       "port": 8080,
-      "uuid": "nasnet"
+      "uuid": "nasnet",
+      "network": "ws",
+      "path": "/NASNET/cdn?ed=2560",
+      "host": "nasnet-571299667.rahavard365.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -115,7 +187,13 @@
       "countryCode": "CA",
       "address": "51.79.103.76",
       "port": 80,
-      "uuid": "58fe1542-5290-40ad-815a-77707a81afe5"
+      "uuid": "58fe1542-5290-40ad-815a-77707a81afe5",
+      "network": "ws",
+      "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+      "host": "google.com",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -124,7 +202,13 @@
       "countryCode": "AE",
       "address": "89.31.120.192",
       "port": 443,
-      "uuid": "44537595-9ccc-4b83-8936-5f9ad3229019"
+      "uuid": "44537595-9ccc-4b83-8936-5f9ad3229019",
+      "network": "tcp",
+      "path": "",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\uddfa\ud83c\uddf8 WS-TLS | @Express_alaki | src @FreakConfig",
@@ -133,7 +217,13 @@
       "countryCode": "US",
       "address": "198.62.62.199",
       "port": 443,
-      "uuid": "f08369d1-5ee7-4b16-d786-30bce12fc33c"
+      "uuid": "f08369d1-5ee7-4b16-d786-30bce12fc33c",
+      "network": "ws",
+      "path": "/f08369d1-5ee7-4b16-d786-30bce12fc33c",
+      "host": "ous3.dean52.top",
+      "tls": "tls",
+      "sni": "ous3.dean52.top",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -142,7 +232,13 @@
       "countryCode": "FR",
       "address": "94.232.247.165",
       "port": 45653,
-      "uuid": "9e91d19a-c73f-4276-adbc-b337c374259c"
+      "uuid": "9e91d19a-c73f-4276-adbc-b337c374259c",
+      "network": "tcp",
+      "path": "",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\u0634\u0627\u0647\u0646\u0634\u0627\u0647 \u0622\u0631\u06cc\u0627\u0645\u0647\u0631 \u0631\u0636\u0627 \u0634\u0627\u0647 \u062f\u0648\u0645 \u0647\u062f\u06cc\u0647 \u0627\u0632 \u0637\u0631\u0641 A",
@@ -151,7 +247,13 @@
       "countryCode": "CA",
       "address": "hgtrojan.zabc.net",
       "port": 2083,
-      "uuid": "e6395c20-4571-4b34-d6b1-55a5d36e49ea"
+      "uuid": "e6395c20-4571-4b34-d6b1-55a5d36e49ea",
+      "network": "ws",
+      "path": "/e6395c20",
+      "host": "hgtrojan.zabc.net",
+      "tls": "tls",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "United States",
@@ -160,7 +262,13 @@
       "countryCode": "US",
       "address": "172.233.229.91",
       "port": 14102,
-      "uuid": "27ba87fc-583f-4763-9060-83cf0b9264db"
+      "uuid": "27ba87fc-583f-4763-9060-83cf0b9264db",
+      "network": "tcp",
+      "path": "",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -169,7 +277,13 @@
       "countryCode": "CA",
       "address": "104.26.14.85",
       "port": 8080,
-      "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767"
+      "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767",
+      "network": "ws",
+      "path": "/nasnet/cdn",
+      "host": "nasnet-162191099.sharghdaily.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\udf10 TCP-None | @Express_alaki | src @v2Line",
@@ -178,7 +292,13 @@
       "countryCode": "US",
       "address": "172.233.229.91",
       "port": 14102,
-      "uuid": "27ba87fc-583f-4763-9060-83cf0b9264db"
+      "uuid": "27ba87fc-583f-4763-9060-83cf0b9264db",
+      "network": "tcp",
+      "path": "",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -187,7 +307,13 @@
       "countryCode": "HK",
       "address": "47.243.135.74",
       "port": 55185,
-      "uuid": "1375985e-334a-4c25-8f64-52a182bc8037"
+      "uuid": "1375985e-334a-4c25-8f64-52a182bc8037",
+      "network": "ws",
+      "path": "/Notif_Chat",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -196,7 +322,13 @@
       "countryCode": "TW",
       "address": "165.154.195.38",
       "port": 35034,
-      "uuid": "959a8caf-4cea-43d0-a548-3628e7ddfafc"
+      "uuid": "959a8caf-4cea-43d0-a548-3628e7ddfafc",
+      "network": "tcp",
+      "path": "",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -205,7 +337,13 @@
       "countryCode": "CA",
       "address": "172.64.155.209",
       "port": 8443,
-      "uuid": "19e52bf4-1b7d-4bd4-ae66-6ca024436c17"
+      "uuid": "19e52bf4-1b7d-4bd4-ae66-6ca024436c17",
+      "network": "ws",
+      "path": "/gbt",
+      "host": "",
+      "tls": "tls",
+      "sni": "frsys.fl-dl.com",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -214,7 +352,13 @@
       "countryCode": "TR",
       "address": "45.89.52.207",
       "port": 39651,
-      "uuid": "ac4c12c5-45f2-4398-a718-9983941ede2b"
+      "uuid": "ac4c12c5-45f2-4398-a718-9983941ede2b",
+      "network": "tcp",
+      "path": "",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -223,7 +367,13 @@
       "countryCode": "US",
       "address": "198.62.62.199",
       "port": 443,
-      "uuid": "f08369d1-5ee7-4b16-d786-30bce12fc33c"
+      "uuid": "f08369d1-5ee7-4b16-d786-30bce12fc33c",
+      "network": "ws",
+      "path": "/f08369d1-5ee7-4b16-d786-30bce12fc33c",
+      "host": "ous3.dean52.top",
+      "tls": "tls",
+      "sni": "ous3.dean52.top",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -232,7 +382,13 @@
       "countryCode": "CA",
       "address": "162.159.152.4",
       "port": 443,
-      "uuid": "2c981164-9b93-4bca-94ff-b78d3f8498d7"
+      "uuid": "2c981164-9b93-4bca-94ff-b78d3f8498d7",
+      "network": "ws",
+      "path": "/vmessws",
+      "host": "v2ray.codefyinc.com",
+      "tls": "tls",
+      "sni": "v2ray.codefyinc.com",
+      "alpn": ""
     },
     {
       "name": "\ud83d\udd06 Tel : @ProxyVPN11 \u27f5",
@@ -241,7 +397,13 @@
       "countryCode": "CA",
       "address": "digitalocean.com",
       "port": 8080,
-      "uuid": "nasnet"
+      "uuid": "nasnet",
+      "network": "ws",
+      "path": "/NASNET/cdn?ed=2560",
+      "host": "nasnet-571299667.rahavard365.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\uddfa\ud83c\uddf8 WS-None | @Express_alaki | src @ConfigV2rayNG",
@@ -250,7 +412,13 @@
       "countryCode": "CA",
       "address": "104.26.14.85",
       "port": 8080,
-      "uuid": "nasnet"
+      "uuid": "nasnet",
+      "network": "ws",
+      "path": "/nasnet/cdn",
+      "host": "nasnet-162191099.sharghdaily.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\uddfa\ud83c\uddf8 WS-None | @Express_alaki | src @ConfigV2rayNG",
@@ -259,7 +427,13 @@
       "countryCode": "CA",
       "address": "104.19.173.68",
       "port": 8080,
-      "uuid": "nasnet"
+      "uuid": "nasnet",
+      "network": "ws",
+      "path": "/NASNET/cdn",
+      "host": "nasnet-571299667.rahavard365.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -268,7 +442,13 @@
       "countryCode": "CA",
       "address": "172.67.197.47",
       "port": 443,
-      "uuid": "516d8a7a-3f0b-41d3-bad0-246116381516"
+      "uuid": "516d8a7a-3f0b-41d3-bad0-246116381516",
+      "network": "ws",
+      "path": "/",
+      "host": null,
+      "tls": "tls",
+      "sni": "sy4.620720.xyz",
+      "alpn": null
     },
     {
       "name": "@chillguy_vpn",
@@ -277,7 +457,13 @@
       "countryCode": "CA",
       "address": "172.67.204.84",
       "port": 8080,
-      "uuid": "nasnet"
+      "uuid": "nasnet",
+      "network": "ws",
+      "path": "/nasnet/cdn",
+      "host": "nasnet-511952424.mcitel.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -286,7 +472,13 @@
       "countryCode": "CA",
       "address": "104.26.14.85",
       "port": 8080,
-      "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767"
+      "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767",
+      "network": "ws",
+      "path": "/nasnet/cdn",
+      "host": "nasnet-571296497.iranpress.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -295,7 +487,13 @@
       "countryCode": "CA",
       "address": "104.24.169.183",
       "port": 8080,
-      "uuid": "nasnet"
+      "uuid": "nasnet",
+      "network": "ws",
+      "path": "/NASNET/cdn#/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1?ed=2560",
+      "host": "nasnet-571299667.rahavard365.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -304,7 +502,13 @@
       "countryCode": "CA",
       "address": "172.67.73.163",
       "port": 8080,
-      "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767"
+      "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767",
+      "network": "ws",
+      "path": "/nasnet/cdn",
+      "host": "nasnet-162191099.sharghdaily.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -313,7 +517,13 @@
       "countryCode": "CA",
       "address": "104.26.15.85",
       "port": 8080,
-      "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767"
+      "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767",
+      "network": "ws",
+      "path": "/nasnet/cdn",
+      "host": "nasnet-571296497.iranpress.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -322,7 +532,13 @@
       "countryCode": "CA",
       "address": "188.114.98.0",
       "port": 8080,
-      "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767"
+      "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767",
+      "network": "ws",
+      "path": "/nasnet/cdn",
+      "host": "nasnet-162191099.sharghdaily.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -331,7 +547,13 @@
       "countryCode": "US",
       "address": "209.126.84.189",
       "port": 443,
-      "uuid": "2c981164-9b93-4bca-94ff-b78d3f8498d7"
+      "uuid": "2c981164-9b93-4bca-94ff-b78d3f8498d7",
+      "network": "ws",
+      "path": "/vmessws",
+      "host": "v2ray.codefyinc.com",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -340,7 +562,13 @@
       "countryCode": "CA",
       "address": "104.26.14.85",
       "port": 8080,
-      "uuid": "nasnet"
+      "uuid": "nasnet",
+      "network": "ws",
+      "path": "/nasnet/cdn?ed=2560",
+      "host": "nasnet-162191099.sharghdaily.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@i10VPN \ud83d\ude80| \u0628\u0627 \u0645\u0627 \u0645\u062a\u0635\u0644 \u0628\u0645\u0648\u0646\u26a1",
@@ -349,7 +577,13 @@
       "countryCode": "CA",
       "address": "tgju.org",
       "port": 8080,
-      "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767"
+      "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767",
+      "network": "ws",
+      "path": "/nasnet/cdn",
+      "host": "nasnet-571296497.iranpress.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\u06a9\u0627\u0646\u0627\u0644 \u062a\u0644\u06af\u0631\u0627\u0645 : Free_VPN_CH@",
@@ -358,7 +592,13 @@
       "countryCode": "TR",
       "address": "tr1-smart.adelping.com",
       "port": 80,
-      "uuid": "43dcdce1-3cea-4193-bc8d-90b92071d779"
+      "uuid": "43dcdce1-3cea-4193-bc8d-90b92071d779",
+      "network": "ws",
+      "path": "",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -367,7 +607,13 @@
       "countryCode": "CA",
       "address": "tgju.org",
       "port": 8080,
-      "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767"
+      "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767",
+      "network": "ws",
+      "path": "/nasnet/cdn",
+      "host": "nasnet-571296497.iranpress.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -376,7 +622,13 @@
       "countryCode": "CA",
       "address": "digitalocean.com",
       "port": 8080,
-      "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767"
+      "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767",
+      "network": "ws",
+      "path": "/NASNET/cdn",
+      "host": "nasnet-571299667.rahavard365.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -385,7 +637,13 @@
       "countryCode": "CA",
       "address": "104.19.174.68",
       "port": 8080,
-      "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767"
+      "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767",
+      "network": "ws",
+      "path": "/NASNET/cdn",
+      "host": "nasnet-571299667.rahavard365.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
@@ -394,7 +652,13 @@
       "countryCode": "CA",
       "address": "172.67.197.47",
       "port": 8443,
-      "uuid": "516d8a7a-3f0b-41d3-bad0-246116381516"
+      "uuid": "516d8a7a-3f0b-41d3-bad0-246116381516",
+      "network": "ws",
+      "path": "/",
+      "host": null,
+      "tls": "tls",
+      "sni": "t1.620720.xyz",
+      "alpn": null
     },
     {
       "name": "@chillguy_vpn",
@@ -403,304 +667,508 @@
       "countryCode": "CA",
       "address": "104.26.15.85",
       "port": 8080,
-      "uuid": "nasnet"
+      "uuid": "nasnet",
+      "network": "ws",
+      "path": "/nasnet/cdn?ed=2560",
+      "host": "nasnet-162191099.sharghdaily.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
       "type": "vmess",
-      "country": "Canada",
-      "countryCode": "CA",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "188.114.96.3",
       "port": 443,
-      "uuid": "516d8a7a-3f0b-41d3-bad0-246116381516"
+      "uuid": "516d8a7a-3f0b-41d3-bad0-246116381516",
+      "network": "ws",
+      "path": "/",
+      "host": "sy4.620720.xyz",
+      "tls": "tls",
+      "sni": "sy4.620720.xyz",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
       "type": "vmess",
-      "country": "Canada",
-      "countryCode": "CA",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "51.79.102.253",
       "port": 80,
-      "uuid": "58fe1542-5290-40ad-815a-77707a81afe5"
+      "uuid": "58fe1542-5290-40ad-815a-77707a81afe5",
+      "network": "ws",
+      "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
       "type": "vmess",
-      "country": "Turkey",
-      "countryCode": "TR",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "185.104.189.38",
       "port": 80,
-      "uuid": "43dcdce1-3cea-4193-bc8d-90b92071d779"
+      "uuid": "43dcdce1-3cea-4193-bc8d-90b92071d779",
+      "network": "ws",
+      "path": "",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
       "type": "vmess",
-      "country": "Canada",
-      "countryCode": "CA",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "188.114.98.0",
       "port": 8080,
-      "uuid": "nasnet"
+      "uuid": "nasnet",
+      "network": "ws",
+      "path": "/nasnet/cdn?ed=2560/?TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN",
+      "host": "nasnet-162191099.sharghdaily.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\udde6\ud83c\uddea WS-TLS | @Express_alaki | src @v2nodes",
       "type": "vmess",
-      "country": "United States",
-      "countryCode": "US",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "dll.avaaaal.ir",
       "port": 8443,
-      "uuid": "725f5fcd-721d-40a0-ba6b-3c7477633110"
+      "uuid": "725f5fcd-721d-40a0-ba6b-3c7477633110",
+      "network": "ws",
+      "path": "/",
+      "host": "cdge.avaaaal.ir",
+      "tls": "tls",
+      "sni": "dll.avaaaal.ir",
+      "alpn": ""
     },
     {
       "name": "\ud83c\udf10 WS-None | @Express_alaki | src @Vpn_Midas",
       "type": "vmess",
-      "country": "Canada",
-      "countryCode": "CA",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "104.19.174.68",
       "port": 8080,
-      "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767"
+      "uuid": "e8b1500b-e9e8-5492-8312-f4eadf7d0767",
+      "network": "ws",
+      "path": "/NASNET/cdn",
+      "host": "nasnet-571299667.rahavard365.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
       "type": "vmess",
-      "country": "Canada",
-      "countryCode": "CA",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "104.21.16.211",
       "port": 80,
-      "uuid": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d"
+      "uuid": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
+      "network": "ws",
+      "path": "/iSRWSKUJKNuXvVzsYHmsMrnO",
+      "host": "nnmkl.2nn.ccwu.cc",
+      "tls": "",
+      "sni": null,
+      "alpn": null
     },
     {
       "name": "@v2_mod_shop\ud83d\ude80 \ud83c\udde8\ud83c\udde6",
       "type": "vmess",
-      "country": "Canada",
-      "countryCode": "CA",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "tgju.org",
       "port": 8080,
-      "uuid": "nasnet"
+      "uuid": "nasnet",
+      "network": "ws",
+      "path": "/nasnet/cdn",
+      "host": "nasnet-571296497.iranpress.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@v2_mod_shop\ud83d\ude80 \ud83c\udde8\ud83c\udde6",
       "type": "vmess",
-      "country": "Canada",
-      "countryCode": "CA",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "172.67.73.163",
       "port": 8080,
-      "uuid": "nasnet"
+      "uuid": "nasnet",
+      "network": "ws",
+      "path": "/nasnet/cdn?ed=2560",
+      "host": "nasnet-571296497.iranpress.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
       "type": "vmess",
-      "country": "Canada",
-      "countryCode": "CA",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "172.64.149.182",
       "port": 8080,
-      "uuid": "nasnet"
+      "uuid": "nasnet",
+      "network": "ws",
+      "path": "/nasnet/cdn?ed=2560",
+      "host": "nasnet-5712964102.sharghdaily.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
       "type": "vmess",
-      "country": "Canada",
-      "countryCode": "CA",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "turk1.net.net",
       "port": 80,
-      "uuid": "43dcdce1-3cea-4193-bc8d-90b92071d779"
+      "uuid": "43dcdce1-3cea-4193-bc8d-90b92071d779",
+      "network": "ws",
+      "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560",
+      "host": "tr1-smart.adelping.com.",
+      "tls": "",
+      "sni": "TM_AZARBAYJAB1.new.99.workers.dev",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
       "type": "vmess",
-      "country": "Canada",
-      "countryCode": "CA",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "104.21.7.101",
       "port": 80,
-      "uuid": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d"
+      "uuid": "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d",
+      "network": "ws",
+      "path": "/iSRWSKUJKNuXvVzsYHmsMrnO",
+      "host": "gbnh.0nn.ccwu.cc",
+      "tls": "",
+      "sni": null,
+      "alpn": null
     },
     {
       "name": "@chillguy_vpn",
       "type": "vmess",
-      "country": "Canada",
-      "countryCode": "CA",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "104.21.69.44",
       "port": 8080,
-      "uuid": "nasnet"
+      "uuid": "nasnet",
+      "network": "ws",
+      "path": "/nasnet/cdn",
+      "host": "nasnet-511952424.mcitel.co",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "@chillguy_vpn",
       "type": "vmess",
-      "country": "Hungary",
-      "countryCode": "HU",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "pq-hungary1.09vpn.com",
       "port": 80,
-      "uuid": "703f722a-4bdf-4e9d-9afd-a681fdf87c74"
+      "uuid": "703f722a-4bdf-4e9d-9afd-a681fdf87c74",
+      "network": "ws",
+      "path": "/vmess/",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\uddef\ud83c\uddf5 VMESS-\u7f8e\u56fd>\u65e5\u672c-NF\u89e3\u9501\u65e5\u672c\u5730\u533a\u975e\u81ea\u5236\u5267-ChatGPT-YouTube-t1.620720.xyz:8443",
       "type": "vmess",
-      "country": "Canada",
-      "countryCode": "CA",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "t1.620720.xyz",
       "port": 8443,
-      "uuid": "516d8a7a-3f0b-41d3-bad0-246116381516"
+      "uuid": "516d8a7a-3f0b-41d3-bad0-246116381516",
+      "network": "ws",
+      "path": "/",
+      "host": "t1.620720.xyz",
+      "tls": "tls",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\udde8\ud83c\udde6 VMESS-\u52a0\u62ff\u5927-NF\u89e3\u9501\u52a0\u62ff\u5927\u5730\u533a\u975e\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-15.235.41.200:80",
       "type": "vmess",
-      "country": "Canada",
-      "countryCode": "CA",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "15.235.41.200",
       "port": 80,
-      "uuid": "58fe1542-5290-40ad-815a-77707a81afe5"
+      "uuid": "58fe1542-5290-40ad-815a-77707a81afe5",
+      "network": "ws",
+      "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\udde8\ud83c\udde6 VMESS-\u52a0\u62ff\u5927-NF\u89e3\u9501\u52a0\u62ff\u5927\u5730\u533a\u975e\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-51.79.102.253:80",
       "type": "vmess",
-      "country": "Canada",
-      "countryCode": "CA",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "51.79.102.253",
       "port": 80,
-      "uuid": "58fe1542-5290-40ad-815a-77707a81afe5"
+      "uuid": "58fe1542-5290-40ad-815a-77707a81afe5",
+      "network": "ws",
+      "path": "/IOebhLMhl1CTbFHbL95myfRX2",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\uddfa\ud83c\uddf8 VMESS-\u7f8e\u56fd-NF\u89e3\u9501\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-v2ray.codefyinc.com:443",
       "type": "vmess",
-      "country": "United States",
-      "countryCode": "US",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "v2ray.codefyinc.com",
       "port": 443,
-      "uuid": "2c981164-9b93-4bca-94ff-b78d3f8498d7"
+      "uuid": "2c981164-9b93-4bca-94ff-b78d3f8498d7",
+      "network": "ws",
+      "path": "/vmessws",
+      "host": "v2ray.codefyinc.com",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\uddfa\ud83c\uddf8 VMESS-\u7f8e\u56fd-NF\u89e3\u9501\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-cg1c07.waimaojd.com:443",
       "type": "vmess",
-      "country": "United States",
-      "countryCode": "US",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "cg1c07.waimaojd.com",
       "port": 443,
-      "uuid": "be8e3136-b874-4085-bd23-ec3699300490"
+      "uuid": "be8e3136-b874-4085-bd23-ec3699300490",
+      "network": "ws",
+      "path": "/api/v1/graphql",
+      "host": "cg1c07.waimaojd.com",
+      "tls": "tls",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\uddfa\ud83c\uddf8 VMESS-\u7f8e\u56fd>\u5fb7\u56fd-NF\u89e3\u9501\u5370\u5ea6\u5730\u533a\u975e\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-support.zoom.us:8080",
       "type": "vmess",
-      "country": "Australia",
-      "countryCode": "AU",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "support.zoom.us",
       "port": 8080,
-      "uuid": "44e57485-eccc-46ef-808f-cd17ac810018"
+      "uuid": "44e57485-eccc-46ef-808f-cd17ac810018",
+      "network": "ws",
+      "path": "/@Malinda6104",
+      "host": "support.zoom.us",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\uddfa\ud83c\uddf8 VMESS-\u7f8e\u56fd-NF\u89e3\u9501\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-209.126.84.189:443",
       "type": "vmess",
-      "country": "United States",
-      "countryCode": "US",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "209.126.84.189",
       "port": 443,
-      "uuid": "2c981164-9b93-4bca-94ff-b78d3f8498d7"
+      "uuid": "2c981164-9b93-4bca-94ff-b78d3f8498d7",
+      "network": "ws",
+      "path": "/vmessws",
+      "host": "209.126.84.189",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\udde6\ud83c\uddfa VMESS-\u672a\u77e5>\u6fb3\u5927\u5229\u4e9a-NF\u89e3\u9501\u6fb3\u5927\u5229\u4e9a\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-sy4.620720.xyz:443",
       "type": "vmess",
-      "country": "Canada",
-      "countryCode": "CA",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "sy4.620720.xyz",
       "port": 443,
-      "uuid": "516d8a7a-3f0b-41d3-bad0-246116381516"
+      "uuid": "516d8a7a-3f0b-41d3-bad0-246116381516",
+      "network": "ws",
+      "path": "/",
+      "host": "sy4.620720.xyz",
+      "tls": "tls",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\uddfa\ud83c\uddf8 VMESS-\u672a\u77e5>\u7f8e\u56fd-NF\u89e3\u9501\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-hgtrojan.zabc.net:2083",
       "type": "vmess",
-      "country": "Canada",
-      "countryCode": "CA",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "hgtrojan.zabc.net",
       "port": 2083,
-      "uuid": "e6395c20-4571-4b34-d6b1-55a5d36e49ea"
+      "uuid": "e6395c20-4571-4b34-d6b1-55a5d36e49ea",
+      "network": "ws",
+      "path": "/e6395c20",
+      "host": "hgtrojan.zabc.net",
+      "tls": "tls",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\uddfa\ud83c\uddf8 VMESS-\u7f8e\u56fd-NF\u89e3\u9501\u81ea\u5236\u5267-ChatGPT-TikTok-YouTube-cg1c01.waimaojd.com:443",
       "type": "vmess",
-      "country": "United States",
-      "countryCode": "US",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "cg1c01.waimaojd.com",
       "port": 443,
-      "uuid": "be8e3136-b874-4085-bd23-ec3699300490"
+      "uuid": "be8e3136-b874-4085-bd23-ec3699300490",
+      "network": "ws",
+      "path": "/api/v1/graphql",
+      "host": "cg1c01.waimaojd.com",
+      "tls": "tls",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\uddfa\ud83c\uddf8 VMESS-\u7f8e\u56fd-ChatGPT-TikTok-YouTube-cg1c04.waimaojd.com:443",
       "type": "vmess",
-      "country": "United States",
-      "countryCode": "US",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "cg1c04.waimaojd.com",
       "port": 443,
-      "uuid": "be8e3136-b874-4085-bd23-ec3699300490"
+      "uuid": "be8e3136-b874-4085-bd23-ec3699300490",
+      "network": "ws",
+      "path": "/api/v1/graphql",
+      "host": "cg1c04.waimaojd.com",
+      "tls": "tls",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\uddfa\ud83c\uddf8 VMESS-\u7f8e\u56fd-ChatGPT-TikTok-YouTube-cg1c14.waimaojd.com:443",
       "type": "vmess",
-      "country": "United States",
-      "countryCode": "US",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "cg1c14.waimaojd.com",
       "port": 443,
-      "uuid": "be8e3136-b874-4085-bd23-ec3699300490"
+      "uuid": "be8e3136-b874-4085-bd23-ec3699300490",
+      "network": "ws",
+      "path": "/api/v1/graphql",
+      "host": "cg1c14.waimaojd.com",
+      "tls": "tls",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\udde8\ud83c\uddf3 \u5e7f\u4e1c\u7701\u6df1\u5733\u5e02 \u79fb\u52a8",
       "type": "vmess",
-      "country": "United States",
-      "countryCode": "US",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "cn02.365cloud5878.com",
       "port": 6007,
-      "uuid": "9f1ecfca-13a9-488d-ac84-aaeb73a8d574"
+      "uuid": "9f1ecfca-13a9-488d-ac84-aaeb73a8d574",
+      "network": "tcp",
+      "path": "/",
+      "host": "cn02.365cloud5878.com",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\udde8\ud83c\uddf3 \u5e7f\u4e1c\u7701\u6df1\u5733\u5e02 \u79fb\u52a8",
       "type": "vmess",
-      "country": "United States",
-      "countryCode": "US",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "cn02.365cloud5878.com",
       "port": 6045,
-      "uuid": "9f1ecfca-13a9-488d-ac84-aaeb73a8d574"
+      "uuid": "9f1ecfca-13a9-488d-ac84-aaeb73a8d574",
+      "network": "tcp",
+      "path": "/",
+      "host": "cn02.365cloud5878.com",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\uddfa\ud83c\uddf8 \u7f8e\u56fd CloudFlare\u8282\u70b9",
       "type": "vmess",
-      "country": "United Kingdom",
-      "countryCode": "GB",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "cf.090227.xyz",
       "port": 443,
-      "uuid": "290cc691-3ac6-4387-98a1-25c8eb8ca2ea"
+      "uuid": "290cc691-3ac6-4387-98a1-25c8eb8ca2ea",
+      "network": "ws",
+      "path": "/",
+      "host": "sgal.dagrate.eu.org",
+      "tls": "tls",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\udde8\ud83c\uddf3 \u5e7f\u4e1c\u7701\u6df1\u5733\u5e02 \u79fb\u52a8",
       "type": "vmess",
-      "country": "United States",
-      "countryCode": "US",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "cn02.365cloud5878.com",
       "port": 6044,
-      "uuid": "9f1ecfca-13a9-488d-ac84-aaeb73a8d574"
+      "uuid": "9f1ecfca-13a9-488d-ac84-aaeb73a8d574",
+      "network": "tcp",
+      "path": "/",
+      "host": "cn02.365cloud5878.com",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\udde8\ud83c\uddf3 \u5e7f\u4e1c\u7701\u6df1\u5733\u5e02 \u79fb\u52a8",
       "type": "vmess",
-      "country": "United States",
-      "countryCode": "US",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "cn02.365cloud5878.com",
       "port": 6004,
-      "uuid": "9f1ecfca-13a9-488d-ac84-aaeb73a8d574"
+      "uuid": "9f1ecfca-13a9-488d-ac84-aaeb73a8d574",
+      "network": "tcp",
+      "path": "/",
+      "host": "cn02.365cloud5878.com",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\udde8\ud83c\uddf3 \u5e7f\u4e1c\u7701\u6df1\u5733\u5e02 \u79fb\u52a8",
       "type": "vmess",
-      "country": "United States",
-      "countryCode": "US",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "cn02.365cloud5878.com",
       "port": 6042,
-      "uuid": "9f1ecfca-13a9-488d-ac84-aaeb73a8d574"
+      "uuid": "9f1ecfca-13a9-488d-ac84-aaeb73a8d574",
+      "network": "tcp",
+      "path": "/",
+      "host": "cn02.365cloud5878.com",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\uddec\ud83c\udde7 \u82f1\u56fd V2CROSS.COM",
       "type": "vmess",
-      "country": "United States",
-      "countryCode": "US",
+      "country": "Unknown",
+      "countryCode": "XX",
       "address": "82.198.246.97",
       "port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552"
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "network": "tcp",
+      "path": "/f6taOMcOSZb9TPR",
+      "host": "bbbbbbbbb.222769.xyz",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\udde8\ud83c\uddf3 \u5e7f\u4e1c\u7701\u6df1\u5733\u5e02 \u79fb\u52a8",
@@ -709,7 +1177,13 @@
       "countryCode": "US",
       "address": "cn02.365cloud5878.com",
       "port": 6009,
-      "uuid": "9f1ecfca-13a9-488d-ac84-aaeb73a8d574"
+      "uuid": "9f1ecfca-13a9-488d-ac84-aaeb73a8d574",
+      "network": "tcp",
+      "path": "/",
+      "host": "cn02.365cloud5878.com",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\udde8\ud83c\uddf3 \u5e7f\u4e1c\u7701\u6df1\u5733\u5e02 \u79fb\u52a8",
@@ -718,7 +1192,13 @@
       "countryCode": "US",
       "address": "cn02.365cloud5878.com",
       "port": 6018,
-      "uuid": "9f1ecfca-13a9-488d-ac84-aaeb73a8d574"
+      "uuid": "9f1ecfca-13a9-488d-ac84-aaeb73a8d574",
+      "network": "tcp",
+      "path": "/",
+      "host": "cn02.365cloud5878.com",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\uddec\ud83c\udde7 \u82f1\u56fd V2CROSS.COM",
@@ -727,7 +1207,13 @@
       "countryCode": "US",
       "address": "82.198.246.97",
       "port": 180,
-      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552"
+      "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
+      "network": "tcp",
+      "path": "/",
+      "host": "",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     },
     {
       "name": "\ud83c\udded\ud83c\uddf0 \u9999\u6e2f|@ripaojiedian",
@@ -736,7 +1222,13 @@
       "countryCode": "HK",
       "address": "v10.hdacd.com",
       "port": 30807,
-      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484"
+      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+      "network": "tcp",
+      "path": "/",
+      "host": "v10.hdacd.com",
+      "tls": "",
+      "sni": "",
+      "alpn": ""
     }
   ]
 }
